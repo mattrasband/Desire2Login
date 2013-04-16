@@ -1,0 +1,6 @@
+{
+	"BaseUrl" : "https://worldclass.regis.edu",
+	"LoginUrl" : "/d2l/lp/auth/login/login.d2l",
+	"RedirUrl" : "/d2l/lp/auth/login/ProcessLoginActions.d2l",
+	"HomeUrl" : "/d2l/lp/homepage/home.d2l?ou=6066"
+}
